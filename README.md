@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
-<h3 align="center">A A Java backend developer</h3>
+<h3 align="center">A  Java backend developer</h3>
 
 - 🌱 I’m currently learning **Spring boot**
 
